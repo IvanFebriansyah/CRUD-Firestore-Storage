@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">pertemuan12</string>
+    <string name="todo">TODO</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="nomer_hp">Nomer HP</string>
+    <string name="instagram_linkedin">Instagram / LinkedIn</string>
+    <string name="alamat_kota">Alamat / Kota</string>
+    <string name="simpan">Simpan</string>
+    <string name="kembali">Kembali</string>
+    <string name="nama">Nama</string>
+    <string name="edit">Edit</string>
+</resources>
